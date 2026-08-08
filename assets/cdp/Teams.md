@@ -15,7 +15,7 @@
 | [MaOM#05]() | Solace & Soul | CB.SC.U4CYS26007 <br> CB.SC.U4CYS26008 <br> CB.SC.U4CYS26014 <br> CB.SC.U4CYS26051 | Anushka Acharjee <br/> Aryan Tripathi <br/> Dhruba Show <br/> Saghaana R |
 | [MaOM#06]() |  | CB.SC.U4CYS26009 <br> CB.SC.U4CYS26015 <br> CB.SC.U4CYS26030 <br> CB.SC.U4CYS26055 | Asvika Pranavika VS <br/> Dongara Shanmuka Sai <br/> Matluri Abhinav <br/> Sri Dhiksha M |
 | [MaOM#07]() | Think tank | CB.SC.U4CYS26010 <br> CB.SC.U4CYS26011 <br> CB.SC.U4CYS26067 <br> CB.SC.U4CYS26068 | A Nitish reddy <br/> Ch.vijay sidhardha reddy <br/> Jaswanth kumar reddy <br/> Harshith .Y |
-| [MaOM#08]() |  | CB.SC.U4CYS26012 <br> CB.SC.U4CYS26032 <br> CB.SC.U4CYS26037 <br> CB.SC.U4CYS26052 | Dharun Vishveshwaran <br/> Mithun Ramesh <br/> P. Jai Surya Teja <br/> Sarvesh Subramanian S |
+| [MaOM#08]() | Team Basic | CB.SC.U4CYS26012 <br> CB.SC.U4CYS26032 <br> CB.SC.U4CYS26037 <br> CB.SC.U4CYS26052 | Dharun Vishveshwaran <br/> Mithun Ramesh <br/> P. Jai Surya Teja <br/> Sarvesh Subramanian S |
 | [MaOM#09]() | CYBER NIGHTHAWKS | CB.SC.U4CYS26013 <br> CB.SC.U4CYS26053 <br> CB.SC.U4CYS26058 <br> CB.SC.U4CYS26063 | Dhesiyageethan S <br/> Sivasangar <br/> T Hariharasudhan <br/> VarnaKumar K N |
 | [MaOM#10]() | HUSTLE | CB.SC.U4CYS26016 <br> CB.SC.U4CYS26026 <br> CB.SC.U4CYS26038 <br> CB.SC.U4CYS26061 | Gali Sai Dakshith Reddy.G <br/> Kruthik Aswin.S <br/> Pejjaye Karthik Reddy <br/> Chakradhar Reddy.V |
 | [MaOM#11]() | Blue lock | CB.SC.U4CYS26017 <br> CB.SC.U4CYS26025 <br> CB.SC.U4CYS26033 <br> CB.SC.U4CYS26035 | Gowthamkumar V <br/> Krivith R <br/> Naveen S <br/> Nithin M |
