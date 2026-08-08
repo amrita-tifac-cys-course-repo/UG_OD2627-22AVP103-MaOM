@@ -18,7 +18,7 @@
 | [MaOM#08]() |  | CB.SC.U4CYS26012 <br> CB.SC.U4CYS26032 <br> CB.SC.U4CYS26037 <br> CB.SC.U4CYS26052 | Dharun Vishveshwaran <br/> Mithun Ramesh <br/> P. Jai Surya Teja <br/> Sarvesh Subramanian S |
 | [MaOM#09]() | CYBER NIGHTHAWKS | CB.SC.U4CYS26013 <br> CB.SC.U4CYS26053 <br> CB.SC.U4CYS26058 <br> CB.SC.U4CYS26063 | Dhesiyageethan S <br/> Sivasangar <br/> T Hariharasudhan <br/> VarnaKumar K N |
 | [MaOM#10]() | HUSTLE | CB.SC.U4CYS26016 <br> CB.SC.U4CYS26026 <br> CB.SC.U4CYS26038 <br> CB.SC.U4CYS26061 | Gali Sai Dakshith Reddy.G <br/> Kruthik Aswin.S <br/> Pejjaye Karthik Reddy <br/> Chakradhar Reddy.V |
-| [MaOM#11]() |  | CB.SC.U4CYS26017 <br> CB.SC.U4CYS26025 <br> CB.SC.U4CYS26033 <br> CB.SC.U4CYS26035 | Gowthamkumar V <br/> Krivith R <br/> Naveen S <br/> Nithin M |
+| [MaOM#11]() | Blue lock | CB.SC.U4CYS26017 <br> CB.SC.U4CYS26025 <br> CB.SC.U4CYS26033 <br> CB.SC.U4CYS26035 | Gowthamkumar V <br/> Krivith R <br/> Naveen S <br/> Nithin M |
 | [MaOM#12]() |  | CB.SC.U4CYS26018 <br> CB.SC.U4CYS26023 <br> CB.SC.U4CYS26036 <br> CB.SC.U4CYS26048 | Thanish Vignesh <br/> Kaushik S Baiju <br/> Venkateswara Reddy <br/> Rohan Gopinath |
 | [MaOM#13]() | Project Horizon | CB.SC.U4CYS26019 <br> CB.SC.U4CYS26108 <br> CB.SC.U4CYS26114 <br> CB.SC.U4CYS26146 | Hirthya G. <br/> Charvi Pundir <br/> Ishi Gupta <br/> Nandhana |
 | [MaOM#14]() | Hackers For Humanity | CB.SC.U4CYS26020 <br> CB.SC.U4CYS26021 <br> CB.SC.U4CYS26102 <br> CB.SC.U4CYS26167 | Kaasni Karthick <br/> Kanishk <br/> Arun N <br/> Yashaswini |
