@@ -8,7 +8,7 @@
 
 | Team Number  |    Team Name      |   Roll Number    |   Team Members   |     Project   |
 |:------------:|:-----------------:|:----------------:|:-----------------|:--------------|
-| [MaOM#01]() | MUGIWARA | CB.SC.U4CYS26001 <br> CB.SC.U4CYS26034 <br> CB.SC.U4CYS26043 <br> CB.SC.U4CYS26064 | LAKSHAN.A <br/> NEERANJAN.R <br/> RAJESH.G <br/> SHAHANTH.V |
+| [MaOM#01]() | MUGIWARA | CB.SC.U4CYS26001 <br> CB.SC.U4CYS26034 <br> CB.SC.U4CYS26043 <br> CB.SC.U4CYS26064 | [LAKSHAN.A]() <br/> NEERANJAN.R <br/> RAJESH.G <br/> SHAHANTH.V |
 | [MaOM#02]() | Mes Que Un Group | CB.SC.U4CYS26002 <br> CB.SC.U4CYS26003 <br> CB.SC.U4CYS26029 <br> CB.SC.U4CYS26039 | Aachitya Singh <br/> Adarsh Balu <br/> Manneguntla Yashwanth <br/> Poreddy Venkata saketh |
 | [MaOM#03]() | Brand New Day | CB.SC.U4CYS26004 <br> CB.SC.U4CYS26133 <br> CB.SC.U4CYS26159 <br> CB.SC.U4CYS26161 | Adithyan B nair <br/> Nithin V <br/> Sri Santhosh <br/> Tharun Ram |
 | [MaOM#04]() | TRILINGUA | CB.SC.U4CYS26005 <br> CB.SC.U4CYS26006 <br> CB.SC.U4CYS26031 <br> CB.SC.U4CYS26046 | Aishwarya Adarsh <br/> Ananya Namburi <br/> Meganithish A S <br/> Rithanya P |
