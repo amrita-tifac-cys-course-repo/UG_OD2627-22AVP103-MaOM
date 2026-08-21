@@ -43,6 +43,11 @@
 
 ### Dates and Deadlines
 
+| Task | Deadline |
+|:-----------:|:--------------------:|
+| Team Formation for CDP | 14 - Aug - 2026 |
+| Topic Selection for CDP | 25 - Aug - 2026 |
+
 
 ### Text Book / Reference Book(s)
 
