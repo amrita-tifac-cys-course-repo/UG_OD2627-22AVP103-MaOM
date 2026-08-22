@@ -13,7 +13,7 @@
 | [MaOM#03]() | Brand New Day | CB.SC.U4CYS26004 <br> CB.SC.U4CYS26133 <br> CB.SC.U4CYS26159 <br> CB.SC.U4CYS26161 | Adithyan B nair <br/> Nithin V <br/> Sri Santhosh <br/> Tharun Ram |
 | [MaOM#04]() | TRILINGUA | CB.SC.U4CYS26005 <br> CB.SC.U4CYS26006 <br> CB.SC.U4CYS26031 <br> CB.SC.U4CYS26046 | Aishwarya Adarsh <br/> Ananya Namburi <br/> Meganithish A S <br/> Rithanya P |
 | [MaOM#05]() | Solace & Soul | CB.SC.U4CYS26007 <br> CB.SC.U4CYS26008 <br> CB.SC.U4CYS26014 <br> CB.SC.U4CYS26051 | Anushka Acharjee <br/> Aryan Tripathi <br/> Dhruba Show <br/> Saghaana R |
-| [MaOM#06]() |  | CB.SC.U4CYS26009 <br> CB.SC.U4CYS26015 <br> CB.SC.U4CYS26030 <br> CB.SC.U4CYS26055 | Asvika Pranavika VS <br/> Dongara Shanmuka Sai <br/> Matluri Abhinav <br/> Sri Dhiksha M |
+| [MaOM#06]() | Project Empathy | CB.SC.U4CYS26009 <br> CB.SC.U4CYS26015 <br> CB.SC.U4CYS26030 <br> CB.SC.U4CYS26055 | Asvika Pranavika VS <br/> Dongara Shanmuka Sai <br/> Matluri Abhinav <br/> Sri Dhiksha M |
 | [MaOM#07]() | Think tank | CB.SC.U4CYS26010 <br> CB.SC.U4CYS26011 <br> CB.SC.U4CYS26067 <br> CB.SC.U4CYS26068 | A Nitish reddy <br/> Ch.vijay sidhardha reddy <br/> Jaswanth kumar reddy <br/> Harshith .Y |
 | [MaOM#08]() | Team Basic | CB.SC.U4CYS26012 <br> CB.SC.U4CYS26032 <br> CB.SC.U4CYS26037 <br> CB.SC.U4CYS26052 | Dharun Vishveshwaran <br/> Mithun Ramesh <br/> P. Jai Surya Teja <br/> Sarvesh Subramanian S |
 | [MaOM#09]() | CYBER NIGHTHAWKS | CB.SC.U4CYS26013 <br> CB.SC.U4CYS26053 <br> CB.SC.U4CYS26058 <br> CB.SC.U4CYS26063 | Dhesiyageethan S <br/> Sivasangar <br/> T Hariharasudhan <br/> VarnaKumar K N |
