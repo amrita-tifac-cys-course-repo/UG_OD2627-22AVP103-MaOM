@@ -25,7 +25,7 @@
 | [MaOM#15]() |  | CB.SC.U4CYS26022 <br> CB.SC.U4CYS26024 <br> CB.SC.U4CYS26027 <br> CB.SC.U4CYS26028 | Karri jahnavi <br/> kesava pritha M K <br/> Lakshana sasvitha S S <br/> Mallimpalli Chethana sai |
 | [MaOM#16]() | VANGUARD | CB.SC.U4CYS26040 <br> CB.SC.U4CYS26041 <br> CB.SC.U4CYS26044 <br> CB.SC.U4CYS26065 | Pranuv Shankar <br/> Prratul M <br/> Rakesh Raam J <br/> Vignesh |
 | [MaOM#17]() |  | CB.SC.U4CYS26042 <br> CB.SC.U4CYS26049 <br> CB.SC.U4CYS26050 <br> CB.SC.U4CYS26069 | R Kamalesh <br/> Rohit Krishna V <br/> S K Harish <br/> Yuvan Adhyaa |
-| [MaOM#18]() | LOGIC LOOPS | CB.SC.U4CYS26045 <br> CB.SC.U4CYS26056 <br> CB.SC.U4CYS26062 <br> CB.SC.U4CYS26071 | Ramya K <br/> Srinethra Ramkumar <br/> Vaddi Joshitha <br/> Mythilivikashini R |
+| [MaOM#18]() | LOGIC LOOPS | CB.SC.U4CYS26045 <br> CB.SC.U4CYS26062 <br> CB.SC.U4CYS26071 <br/> CB.SC.U4CYS26073 | Ramya K <br/> Vaddi Joshitha <br/> Mythilivikashini R <br/> Hosni |
 | [MaOM#19]() |  | CB.SC.U4CYS26047 <br> CB.SC.U4CYS26054 <br> CB.SC.U4CYS26057 <br> CB.SC.U4CYS26070 | Rithikaa R <br/> Sreelekshmi S <br/> Swavinya P <br/> Neha Anil |
 | [MaOM#20]() | SUDO HUMANITY | CB.SC.U4CYS26059 <br> CB.SC.U4CYS26109 <br> CB.SC.U4CYS26128 <br> CB.SC.U4CYS26142 | T S Abhijith <br/> Deeksha G <br/> Megha P V <br/> Rithanya D |
 | [MaOM#21]() | Paw Patrol | CB.SC.U4CYS26060 <br> CB.SC.U4CYS26129 <br> CB.SC.U4CYS26139 <br> CB.SC.U4CYS26166 | Tanushri Umapathy <br/> Nandana Nair <br/> Pritesh Devaprasad <br/> Visva Thomas Christober |
